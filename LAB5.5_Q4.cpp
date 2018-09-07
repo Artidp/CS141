@@ -7,7 +7,7 @@ using namespace std;
 int main(){
 
 	cout<<"Welcome to Keshav's Programming"<<endl;
-	cout<<"This progrmme makes triangle with increasing base."<<endl; // intro
+	cout<<"This progrmme makes triangle with decreasing base."<<endl; // intro
 
 	int a;	//declaration
 
