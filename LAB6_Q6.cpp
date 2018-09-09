@@ -19,7 +19,8 @@ void fun2 (int &u,float &c,float &t,float &st,float &td)
 //fun gives output
 void fun3(int &u,float &c,float &t,float &st,float &td)
 {
-	cout <<"Bill unit: "<<u<<endl;
+	cout<<"The bill of your entered input is,"<<endl;
+	cout <<" Bill unit: "<<u<<endl;
 	cout << "Cost per unit: "<<c<<endl;
 	cout << "Tax rate in percentage: "<<t<<endl;
 	cout << "Sales tax: "<<st<< endl;
