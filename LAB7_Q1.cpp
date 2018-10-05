@@ -1,3 +1,7 @@
+/*
+1. Write a C++ program to find power of any number using recursion.
+*/
+
 #include<iostream>
 using namespace std;
 
