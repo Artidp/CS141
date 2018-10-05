@@ -1,3 +1,7 @@
+/*
+2. Write a C++ program to print all natural numbers between 1 to n using recursion.
+*/
+
 #include<iostream>
 using namespace std;
 
