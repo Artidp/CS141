@@ -1,0 +1,24 @@
+1.	(1) *p3 = S
+	(2) *p1 = T
+	(3) , p3 =  6940
+	(4) * p2 = S
+	(5) , p1 = 6940
+
+2.	(D) *p = 75
+
+3. If *p is a double pointer it can point only to the address of the variable that stores double values and not char. For pointing character we need to use "char *p".
+
+4.	temp = blocks[0];		= A
+	temp = *(blocks + 2);	= C
+	temp = *(ptr + 1);		= B
+	temp = *ptr;			= A
+
+	ptr = blocks + 1;		= 4435
+   	temp = *ptr;			= B
+   	temp = *(ptr + 1);		= C
+
+	ptr = blocks;			= 4434
+   	temp = *++ptr;			= B
+   	temp = ++*ptr;			= C
+   	temp = *ptr++;			= C
+   	temp = *ptr;			= C
